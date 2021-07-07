@@ -78,7 +78,7 @@ https://codepen.io/devhannah/pen/MxeJJN
 
 ## Author
 
-- Website - [Ezinne Nwachukwu](https://www.your-site.com)
+- Website - [Ezinne Nwachukwu](https://ezinne173.github.io/Fylo--Landing-Page/)
 
 
 
